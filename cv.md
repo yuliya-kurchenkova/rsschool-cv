@@ -16,5 +16,10 @@ function myFunction() {
     const x = document.getElementById("text").value;
     document.getElementById("transformText").innerHTML = x;
 };
-```
+```  
+**education**
+*Franzisk Skaryna University  
+Faculty of Finance and Credit*
+
+
 
