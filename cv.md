@@ -17,9 +17,10 @@ function myFunction() {
     document.getElementById("transformText").innerHTML = x;
 };
 ```  
-**education**
+**education**  
 *Franzisk Skaryna University  
-Faculty of Finance and Credit*
+Faculty of Finance and Credit*  
+Study English on YouTube. Every day I try to spend at least 1 hour on learning English.
 
 
 
